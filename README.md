@@ -30,13 +30,13 @@ A powerful yet simple Python-based network sniffer to capture and analyze packet
 git clone https://github.com/your-username/network-sniffer.git
 cd network-sniffer
 ```
-### Install Requirements
+### 2. Install Requirements
 ```bash
 pip install scapy
 ```
 ⚠️ Note: This script must be run with root privileges for packet capturing.
 
-### To Use
+### 3. To Use
 ```bash
 sudo python3 sniffer.py
 ```
